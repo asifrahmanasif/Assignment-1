@@ -443,3 +443,41 @@ body{
 }
 /* End all of section  */
 /* End all of section  */
+
+/* start footer part  */
+/* start footer part  */
+
+.footer{
+    height: 100px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+    margin-top: 130px;
+}
+.footer-items{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items:center;
+    text-align: center;
+    padding:33px 380px;
+
+}
+.footer-tittle{
+    color: rgb(13, 19, 33);
+    font-size: 23px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0%;
+    /* text-align: center; */
+}
+.contact-icon{
+ 
+}
+.asd{
+    
+    width: 157.01px;
+    height: 36px;
+    margin: 0px 20px;
+}
+/* end footer part */
+/* end footer part */
